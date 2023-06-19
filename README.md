@@ -1,3 +1,7 @@
+-https://www.debugandrelease.com/how-to-use-tailwindcss-with-electron/
+-https://thoughtbot.com/blog/adding-tailwind-to-electron
+
+
 # package-skeleton
 
 ---

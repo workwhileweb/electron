@@ -23,7 +23,7 @@
         "dev": "vite --host",
         "build": "vite build",
         "build:el": "node scripts/build.js",
-        "precompile": "MODE=production npm run build",
+        "precompile": "npm run build",
         "compile": "electron-builder build --config electron-builder.config.js --dir --config.asar=false",
         "start:el": "npm run build && npm run build:el && npm run compile && ./dist/linux-unpacked/package-skeleton",
         "serve": "vite preview",
